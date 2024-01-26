@@ -13,5 +13,5 @@ https://github.com/noscript/ultrawide.vim/assets/717109/6da7302d-1c9b-4e60-9e77-
 
 ## Requirements:
 
-* `WinNewPre` event, see https://github.com/vim/vim/pull/12761
+* `WinNewPre` event (Vim 9.1.0059 or newer, see https://github.com/vim/vim/commit/1f47db7)
 * `xwininfo` (X11), PRs to support other platforms are welcome!
